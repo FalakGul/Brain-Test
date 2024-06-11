@@ -1,0 +1,3 @@
+basic:90
+intermediate:70
+advanced:70
